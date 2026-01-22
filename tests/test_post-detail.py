@@ -4,8 +4,8 @@ import re
 
 # 테스트 타겟 설정
 API_BASE = "http://localhost:3333"
-TARGET_POST_ID = 92
-# TARGET_POST_ID = 44 
+#TARGET_POST_ID = 92
+TARGET_POST_ID = 44 
 # 44번 게시글의 댓글 데이터 중에,
 # 일부러 이메일 형식이 잘 못되도록 db에 수정해 둠. 바꿔서 해볼것.
 
